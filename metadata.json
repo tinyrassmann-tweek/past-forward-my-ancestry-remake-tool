@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Past Forward Ancestry Reversal Idea",
+  "description": "Your personal time machine. Gemini reimagines you in past decades with character consistency from your own photo. Use to reverse engineer and produce similar AI generated photos and images/videos for the Ancestry App ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
