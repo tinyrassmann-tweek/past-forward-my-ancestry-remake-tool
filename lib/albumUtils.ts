@@ -41,7 +41,7 @@ export async function createAlbumPage(imageData: Record<string, string>): Promis
     ctx.textAlign = 'center';
 
     ctx.font = `bold 100px 'Caveat', cursive`;
-    ctx.fillText('Generated with Past Forward', canvasWidth / 2, 150);
+    ctx.fillText('Generated with My Ancestry Lives', canvasWidth / 2, 150);
 
     ctx.font = `50px 'Roboto', sans-serif`;
     ctx.fillStyle = '#555';

@@ -229,7 +229,7 @@ function App() {
                     </div>
                 )}
                 <div className="text-center mb-10">
-                    <h1 className="text-6xl md:text-8xl font-caveat font-bold text-neutral-100">Past Forward</h1>
+                    <h1 className="text-6xl md:text-8xl font-caveat font-bold text-neutral-100">My Ancestry Lives</h1>
                     <p className="font-permanent-marker text-neutral-300 mt-2 text-xl tracking-wide">Generate yourself through the decades.</p>
                 </div>
 
